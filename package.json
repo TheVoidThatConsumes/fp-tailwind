@@ -1,0 +1,23 @@
+{
+  "name": "fp-tailwind",
+  "version": "1.0.0",
+  "description": "My first Tailwind.CSS project.",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build src/styles.css -o public/styles.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheVoidThatConsumes/fp-tailwind.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheVoidThatConsumes/fp-tailwind/issues"
+  },
+  "homepage": "https://github.com/TheVoidThatConsumes/fp-tailwind#readme",
+  "dependencies": {
+    "tailwindcss": "^3.1.8"
+  }
+}
