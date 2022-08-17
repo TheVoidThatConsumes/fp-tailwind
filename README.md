@@ -1,2 +1,2 @@
 # fp-tailwind
- My first Tailwind.CSS project.
+ My first Tailwind.css project.
